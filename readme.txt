@@ -1,4 +1,4 @@
 learn git
 git is for free
 
-open gl
+Git is free software distributed under the GPL.
