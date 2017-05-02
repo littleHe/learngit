@@ -8,4 +8,8 @@ gib branch
 
 solution diff master
 
+<<<<<<< HEAD
 edit by master
+=======
+edit by dev
+>>>>>>> dev
